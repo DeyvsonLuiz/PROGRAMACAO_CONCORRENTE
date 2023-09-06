@@ -1,2 +1,2 @@
 # PROGRAMACAO_CONCORRENTE
- Pasta para os trabalhos da disciplina Programação Concorrente - UESB
+ Repositório para os trabalhos da disciplina Programação Concorrente - UESB
